@@ -1,16 +1,16 @@
-### Hi there 👋
+⚡ Coding with passion
 
-<!--
-**NamesMT/NamesMT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🌐 Socials:
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/topnames_MT) 
 
-Here are some ideas to get you started:
+#### 😘 I like
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)  
+& Everything related 👌
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### 📊 & 🏆:
+![](https://github-readme-streak-stats.herokuapp.com/?user=NamesMT&theme=shades-of-purple&hide_border=false)<br/>
+![](https://github-profile-trophy.vercel.app/?username=NamesMT&theme=dracula&no-frame=true&no-bg=false&margin-w=4)
+
+---
+[![](https://visitcount.itsvg.in/api?id=NamesMT&label=Profile%20Views&color=11&icon=5&pretty=true)](https://visitcount.itsvg.in)
