@@ -22,4 +22,5 @@ Dive in and understand it.
 ![](https://github-profile-trophy.vercel.app/?username=NamesMT&theme=dracula&no-frame=true&no-bg=false&margin-w=4)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=NamesMT&label=Profile%20Views&color=11&icon=5&pretty=true)](https://visitcount.itsvg.in)
+
+Is running a follower bot till end of 2025 to expand my GH connections, sorry if it bothers you.
