@@ -20,7 +20,3 @@ Dive in and understand it.
 ### 📊 & 🏆:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=NamesMT&theme=shades-of-purple&hide_border=false)<br/>
 ![](https://github-profile-trophy.vercel.app/?username=NamesMT&theme=dracula&no-frame=true&no-bg=false&margin-w=4)
-
----
-
-Is running a follower bot till end of 2025 to expand my GH connections, sorry if it bothers you.
