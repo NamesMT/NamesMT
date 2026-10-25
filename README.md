@@ -1,4 +1,4 @@
-⚡ Coding with passion
+⚡ With passion
 
 ### 🌐 Socials:
 
